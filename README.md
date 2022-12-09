@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marcoaguibor
+- 👋 Hi, I’m @marcoaguibor. I'm a statistics major at Universidade Federal do Paraná.
 - 👀 I’m interested in Data Science & Machine Learning
 - 🌱 I’m currently learning Python & R
 - 💞️ I’m looking to collaborate on data analysis and data projects
